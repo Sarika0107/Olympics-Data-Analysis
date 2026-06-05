@@ -136,7 +136,7 @@ This project can help:
 
 ## Repository Contents
 
-- Olympics_ML_Project.ipynb → Complete analysis and machine learning workflow
+- Olympics(s).ipynb → Complete analysis and machine learning workflow
 - Summer-Olympic-medals-1976-to-2008.csv → Dataset
 - README.md → Project documentation
 
